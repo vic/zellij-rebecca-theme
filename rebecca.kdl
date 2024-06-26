@@ -1,0 +1,15 @@
+themes {
+    rebecca {
+        fg "#f1eff8"
+        bg "#292a44"
+        black "#383a62"
+        magenta "#ff79c6"
+        green "#2de0a7"
+        yellow "#efe4a1"
+        blue "#7aa5ff"
+        red "#663399"
+        cyan "#6dfedf"
+        white "#ccccff"
+        orange "#ae81ff"
+    }
+}
